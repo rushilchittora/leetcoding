@@ -1,3 +1,5 @@
+// Subtract the product and Sum of Digits of an Integer
+
 #include<iostream>
 using namespace std;
 
