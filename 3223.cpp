@@ -9,7 +9,6 @@ int main (){
     cin>>s;
     int i=0 ;
 
-    for 
 
     cout<<s;
 
